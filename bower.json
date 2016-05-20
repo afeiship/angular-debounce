@@ -1,0 +1,29 @@
+{
+  "name": "angular-debounce",
+  "description": "AngularJS  debounce service.",
+  "main": "dist/angular-debounce.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "throttle",
+    "debounce",
+    "angular"
+  ],
+  "homepage": "https://github.com/afeiship/angular-debounce",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
