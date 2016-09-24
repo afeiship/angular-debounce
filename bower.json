@@ -2,8 +2,7 @@
   "name": "angular-debounce",
   "description": "AngularJS  debounce service.",
   "main": [
-    "dist/js/angular-debounce.js",
-    "dist/js/angular-debounce.min.js"
+    "dist/js/angular-debounce.js"
   ],
   "authors": [
     "afei"
