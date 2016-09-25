@@ -7,10 +7,6 @@
     "name": "afei",
     "email": "1290657123@qq.com"
   },
-  "repository": {
-    "type": "https",
-    "url": "https://github.com/afeiship/angular-debounce.git"
-  },
   "license": "MIT",
   "devDependencies": {
     "del": "~2.0.2",
